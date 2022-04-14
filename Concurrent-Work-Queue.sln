@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrent-Work-Queue", "Concurrent-Work-Queue\Concurrent-Work-Queue.csproj", "{02A518D1-BC3E-4644-9168-24C8E2E33F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrent-Work-Queue-Demo", "Concurrent-Work-Queue-Demo\Concurrent-Work-Queue-Demo.csproj", "{89FA1052-DEB3-40B2-BE83-33656DE11910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A518D1-BC3E-4644-9168-24C8E2E33F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A518D1-BC3E-4644-9168-24C8E2E33F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A518D1-BC3E-4644-9168-24C8E2E33F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A518D1-BC3E-4644-9168-24C8E2E33F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89FA1052-DEB3-40B2-BE83-33656DE11910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FA1052-DEB3-40B2-BE83-33656DE11910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FA1052-DEB3-40B2-BE83-33656DE11910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FA1052-DEB3-40B2-BE83-33656DE11910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E7A500F-BD7F-4428-8D23-8FC23DDB26E0}
+	EndGlobalSection
+EndGlobal
